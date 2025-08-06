@@ -19,3 +19,4 @@ function aumentaTamanho(){
     }
     numeroSenha.textContent = tamanhoSenha;
 }
+
